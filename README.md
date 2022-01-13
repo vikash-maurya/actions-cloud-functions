@@ -5,3 +5,4 @@ Cloud Functions is the serverless compute platform created by Google to be used 
 GitHub Actions is the way used by GitHub to deploy CICD pipelines. AS we can imagine is deeply integrated into GitHub and we only need to create a YAML file in the .github/workflows folder to start our pipeline. Easy and graphically ideal.
 aa
 mkdev video in https://www.youtube.com/watch?v=gM01yoi4Nog
+aa
