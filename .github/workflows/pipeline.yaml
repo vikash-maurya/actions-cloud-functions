@@ -3,7 +3,7 @@ on:
   push:
     branches: [ main ]
 env:
-  PROJECT: mkdevyoutube
+  PROJECT: cohesive-scope-336707
 
 jobs:
   build:
@@ -25,7 +25,7 @@ jobs:
         with:
           name: ILoveMkdev
           runtime: java11
-          project_id: mkdevyoutube
+          project_id: cohesive-scope-336707
           entry_point: functions.ILoveMkdev
 
       - name: make the url aunthenticated
