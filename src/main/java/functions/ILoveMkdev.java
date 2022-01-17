@@ -11,6 +11,6 @@ public class ILoveMkdev implements HttpFunction {
   public void service(HttpRequest request, HttpResponse response)
       throws IOException {
     BufferedWriter writer = response.getWriter();
-    writer.write("I Love MKDEV!");
+    writer.write("test sucessful gradeup!");
   }
 }
